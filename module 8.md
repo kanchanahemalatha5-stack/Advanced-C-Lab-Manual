@@ -242,5 +242,6 @@ void square(){
 ```
 ## Output:
 <img width="831" height="262" alt="image" src="https://github.com/user-attachments/assets/3fb3b455-57a3-4ddf-aa47-5be6fa872df1" />
+
 ## Result:
 Thus, the program is verified successfully
